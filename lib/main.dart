@@ -44,7 +44,7 @@ class MyHomePage extends StatelessWidget {
               },
               child: const Text('Click Me'),
             ),
-            const SizedBox(height: 20), 
+            const SizedBox(height: 40), 
             Image.network(
               'https://flutteragency.com/wp-content/uploads/2022/11/Assets-in-Development-Mode-in-Flutter-1000X600.jpg',
               height: 100, 
